@@ -1,0 +1,28 @@
+{
+  "name": "httpnodejourney",
+  "version": "1.0.0",
+  "description": "simple http server for serving html content",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerkar/httpnodejourney.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "http",
+    "server",
+    "custom",
+    "web",
+    "server"
+  ],
+  "author": "Praveen Nerkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nerkar/httpnodejourney/issues"
+  },
+  "homepage": "https://github.com/nerkar/httpnodejourney#readme"
+}
